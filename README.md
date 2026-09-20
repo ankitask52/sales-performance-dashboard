@@ -1,18 +1,34 @@
-Dashboard Visuals
-KPI Cards: Total Revenue, Total Profit, and Total Quantity at a glance.
-Order Date Slicer: Filters the entire dashboard by a custom date range (03-01-2014 to 01-12-2017).
-Sales and Profit by Year (Combo Chart): Bars for yearly sales with a line for profit, showing growth from 2014 to 2017.
-Sales by Year and Quarter (Clustered Column Chart): Quarterly sales trends (Qtr 1 to Qtr 4) for each year.
-Sales by State (Map): Geographic distribution of sales across US states.
-Profit by Segment (Donut Chart): Split between Consumer, Corporate, and Home Office segments, with Consumer the largest at about 51.7%.
-Sales by Category (Pie Chart): Contribution of Office Supplies, Furniture, and Technology to total sales.
-💡 Key Insights
-Sales and profit show a steady upward trend year over year.
-The Consumer segment contributes the largest share.
-Quarterly analysis reveals seasonality, with stronger performance in the later quarters.
-The map helps identify high-performing states and regions.
-🛠️ Tools & Technologies
-Microsoft Power BI Desktop
-DAX (measures and calculations)
-Excel / CSV (data source)
-Power Query (data cleaning and modeling)
+# 📊 Sales Dashboard – Power BI
+
+An interactive Power BI dashboard that analyzes sales, profit, and quantity trends across the United States from 2014 to 2017.
+
+![Dashboard](Screenshots/dashboard.png)
+
+## 📌 Key Metrics
+- **Total Revenue:** 2.22M
+- **Total Profit:** 278.63K
+- **Total Quantity Sold:** 36K
+
+## 📈 Dashboard Features
+- Order date slicer to filter the whole dashboard
+- Sales and profit by year (combo chart)
+- Sales by year and quarter (column chart)
+- Sales by state (map)
+- Profit by segment: Consumer, Corporate, Home Office (donut chart)
+- Sales by category: Office Supplies, Furniture, Technology (pie chart)
+
+## 💡 Key Insights
+- Sales and profit grow steadily year over year.
+- The Consumer segment contributes the largest share.
+- Sales show seasonality, with stronger later quarters.
+
+## 🛠️ Tools Used
+Power BI Desktop, DAX, Power Query, Excel/CSV
+
+## 🚀 How to Use
+1. Download or clone this repository.
+2. Open `Sales_Dashboard.pbix` in Power BI Desktop.
+3. Explore the data with the slicer and interactive visuals.
+
+## 👩‍💻 Author
+ankita [www.linkedin.com/in/ankita-sinha-b6421234a]
