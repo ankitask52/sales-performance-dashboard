@@ -1,7 +1,7 @@
  Project Overview
 This project features an interactive Sales Dashboard created to visualize and analyze sales performance data from January 2014 to December 2017. The dashboard provides a comprehensive view of key performance indicators (KPIs), trends, and breakdowns by segment, category, and time period.
 
-🚀 Key Metrics (KPIs)
+     Key Metrics (KPIs)
 The dashboard highlights the following aggregate figures for the selected period:
 
 Total Sales: $2.25M
@@ -12,7 +12,7 @@ Total Quantity Sold: 37K
 
 Date Range: 17-01-2014 to 16-12-2017
 
-📈 Visualizations Included
+     Visualizations Included
 1. Sales and Profit by Year
 Type: Combination Chart (Bar & Line)
 
@@ -56,7 +56,7 @@ Sum of Profit
 
 Profit Margin %
 
-🛠️ Tools Used
+   Tools Used
 Data Visualization Tool: (e.g., Power BI, Tableau, Excel - please specify which tool you used)
 
 Data Source: (e.g., Superstore Sales Dataset, Excel CSV)
